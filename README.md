@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ElnurBabaev
-- 👀 I’m interested in making a Telegramm bots
+- 👀 I’m interested in making a Telegram bots
 - 🌱 I’m currently learning Python
 - 📫 How to reach me elnurbabaev@vk.ru
 
